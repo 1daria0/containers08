@@ -20,7 +20,7 @@
 
 Созданы все необходимые каталоги и файлы согласно заданию:
 
-
+```
 PS D:\CV(2026)\containers08> mkdir site
 PS D:\CV(2026)\containers08> cd site
 PS D:\CV(2026)\containers08\site> mkdir modules
@@ -31,7 +31,7 @@ PS D:\CV(2026)\containers08\site> mkdir tests
 PS D:\CV(2026)\containers08\site> mkdir .github
 PS D:\CV(2026)\containers08\site> cd .github
 PS D:\CV(2026)\containers08\site\.github> mkdir workflows
-
+```
 
 ### 3. Разработка Web-приложения
 
